@@ -1,2 +1,2 @@
 # TailRecursion
-Sample repo showcasing Tail Recursion
+Sample repo showcasing Tail Recursion capability
